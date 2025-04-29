@@ -5,7 +5,7 @@
 <h2 align="center"><b>FILMANZIX " AMAR TUBE"</b></h2>
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
 
-<p align="center"><a href="https://t.me/filmanzix//"><img src="https://graph.org/file/ea52c1270675fca84d53e-fe7e1ab677e99451d4.jpg" alt="Get it on telegram" height=80/></a></p>
+<p align="center"><a href="https://t.me/filmanzix//"><img src="https://graph.org/file/65eda56e902906ed1ac70-f50bc0ea8b4c4d2629.jpg" alt="Get it on telegram" height=80/></a></p>
 
 <p align="center">
 <a href="https://github.com/TeamNewPipe/NewPipe/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" ></a>
