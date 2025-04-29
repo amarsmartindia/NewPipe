@@ -1,7 +1,7 @@
 <h3 align="center">We are planning to <i>rewrite</i> large chunks of the codebase, to bring about <a href="https://github.com/TeamNewPipe/NewPipe/discussions/10118">a new, modern and stable NewPipe</a>!</h3>
 <h4 align="center">Please do <b>not</b> open pull requests for <i>new features</i> now, only bugfix PRs will be accepted.</h4>
 
-<p align="center"><a href="https://vigyapan.online/"><img src="https://graph.org/file/7c2bb81490e8d06b97fdd-b91140f2b52ef18cc9.png" width="150"></a></p> 
+<p align="center"><a href="https://vigyapan.online/"><img src="https://graph.org/file/65eda56e902906ed1ac70-f50bc0ea8b4c4d2629.jpg" width="150"></a></p> 
 <h2 align="center"><b>FILMANZIX " AMAR TUBE"</b></h2>
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
 
