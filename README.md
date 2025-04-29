@@ -1,11 +1,11 @@
 <h3 align="center">We are planning to <i>rewrite</i> large chunks of the codebase, to bring about <a href="https://github.com/TeamNewPipe/NewPipe/discussions/10118">a new, modern and stable NewPipe</a>!</h3>
 <h4 align="center">Please do <b>not</b> open pull requests for <i>new features</i> now, only bugfix PRs will be accepted.</h4>
 
-<p align="center"><a href="https://newpipe.net"><img src="assets/new_pipe_icon_5.png" width="150"></a></p> 
-<h2 align="center"><b>NewPipe</b></h2>
+<p align="center"><a href="https://vigyapan.online/"><img src="assets/new_pipe_icon_5.png" width="150"></a></p> 
+<h2 align="center"><b>FILMANZIX " AMAR TUBE"</b></h2>
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
 
-<p align="center"><a href="https://f-droid.org/packages/org.schabi.newpipe/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a></p>
+<p align="center"><a href="https://t.me/filmanzix//"><img src="https://graph.org/file/07093416f8c1cfe478460-a16871ca556304fd88.jpg" alt="Get it on telegram" height=80/></a></p>
 
 <p align="center">
 <a href="https://github.com/TeamNewPipe/NewPipe/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/TeamNewPipe/NewPipe.svg" ></a>
@@ -48,7 +48,7 @@ NewPipe currently supports these services:
 
 <!-- We link to the service websites separately to avoid people accidentally opening a website they didn't want to. -->
 * YouTube ([website](https://www.youtube.com/)) and YouTube Music ([website](https://music.youtube.com/)) ([wiki](https://en.wikipedia.org/wiki/YouTube))
-* Instagram ([website](https://www.instagram.com/?hl=en)) and all its instances (open the website to know what that means!) ([wiki](https://en.wikipedia.org/wiki/PeerTube))
+* Instagram ([website](https://www.instagram.com/)) and all its instances (open the website to know what that means!) ([wiki](https://en.wikipedia.org/wiki/instagram))
 * Bandcamp ([website](https://bandcamp.com/)) ([wiki](https://en.wikipedia.org/wiki/Bandcamp))
 * SoundCloud ([website](https://soundcloud.com/)) ([wiki](https://en.wikipedia.org/wiki/SoundCloud))
 * media.ccc.de ([website](https://media.ccc.de/)) ([wiki](https://en.wikipedia.org/wiki/Chaos_Computer_Club))
